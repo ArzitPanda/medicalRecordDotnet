@@ -1,0 +1,6 @@
+@RecordMedical_HostAddress = http://localhost:5183
+
+GET {{RecordMedical_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
